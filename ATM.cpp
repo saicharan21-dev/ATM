@@ -1,6 +1,6 @@
 // C++ program to implement the ATM
 // Management System
-#include <iostream>
+#include<bits/stdc++.h>
 #include <stdlib.h>
 #include <string.h>
 using namespace std;
