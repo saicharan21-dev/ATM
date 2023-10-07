@@ -53,7 +53,7 @@ public:
 	void showbal()
 	{
 		tot = tot + amount;
-		cout << "\nTotal balance is: " << tot;
+		cout << "\nTotal balance is " << tot;
 	}
 
 	// Function to withdraw the amount in ATM
