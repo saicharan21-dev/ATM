@@ -9,7 +9,7 @@ class Bank {
 private:
 	string name;
 	string str;
-	long long accNmber;
+	long long accnumber;
 	char type[10];
 	long long amount = 0;
 	long long tot = 0;
