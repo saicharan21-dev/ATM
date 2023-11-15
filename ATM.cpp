@@ -8,7 +8,7 @@ class Bank {
 	// Private variables used inside class
 private:
 	string name;
-	string str;
+	string str
 	long long accnumber;
 	char type[10];
 	long long amount = 0;
